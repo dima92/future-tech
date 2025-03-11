@@ -1,0 +1,14 @@
+{
+  "name": "future-tech",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "sass-watch": "sass --watch ."
+  },
+  "author": "Dmitry Tkachenko<dima-tkachenko@mail.ru>",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "sass": "^1.85.1"
+  }
+}
